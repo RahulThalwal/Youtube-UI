@@ -1,0 +1,33 @@
+.subs {
+    background-color: rgb(199, 9, 9);
+     color: white;
+     height: 40px;
+     border: none;
+     width: 100px;
+     cursor: pointer;
+     transition: background-color 0.5s;
+}
+.subs:hover {
+    background-color: blueviolet;
+}
+
+.join {
+    border-style: solid;
+    border-color: rgb(52, 52, 226);
+    border-radius: 5px;
+    color:rgb(52, 52, 226);
+    height: 36px;
+    width: 62px;
+}
+
+.tweet {
+    background-color: rgb(46, 142, 221);
+    height: 40px;
+    width: 80px;
+    border: none;
+    border-radius: 20px;
+    color:white;
+    font-weight: bold;
+    box-shadow:  5px 5px 10px rgba(0,0,0,0.15);
+    margin-left: 23px;
+}
